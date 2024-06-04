@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+    color: white;
+    height: 900px;
+}
+.cen{
+    height: 60px;
+    display: flex;
+    justify-content: center;
+}
+#bloc{
+    box-sizing: border-box;
+    display: flex;
+    margin-top: 40px;
+    background-color: white;
+    color: black;
+    width: 100vw;
+    height: 50%;
+}
+#quote{
+    width: 75vw;
+    height: 50vh;
+    font-size: 45px;
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+#image{
+    width: 45vw;
+    height: 100%;
+}
+p{
+    font-size: 19px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+hr{
+    margin-top: 40px;
+    height: 2px;
+    background-color: white;
+}
